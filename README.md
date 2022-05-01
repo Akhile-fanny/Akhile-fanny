@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @Akhile-fanny
-- I am a Google certified data analyst. Skilled in Excel, SQL, Microsoft Power BI  and R
+- I am a Google certified Data Analyst. Skilled in Excel, SQL, Microsoft Power BI  and R
 - 📫 connect with me on https://www.linkedin.com/in/fanny-akhile
 
 <!---
