@@ -1,7 +1,5 @@
-- 👋 Hi there, I’m @Akhile-fanny and I'm a data analytic enthusiast.
-- 
-- 🌱 I’m currently learning data analytics using Excel, power BI and SPSS.
-
+- 👋 Hi there, I’m @Akhile-fanny
+- I am a google certified data analyst. i am skilled in Excel, SQL, Microsoft Power BI  and R
 - 📫 connect with me on https://www.linkedin.com/in/fanny-akhile
 
 <!---
